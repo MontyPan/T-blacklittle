@@ -1,6 +1,6 @@
 
 public class Task3 {
-	public static void main(String[] args) {
+	public static void main666(String[] mtf) {
 		int input = 5;
 		System.out.println("======== 我是分隔線 =========");
 		for (int x = 0; x < 2*input-1; x = x+1) {
@@ -9,7 +9,6 @@ public class Task3 {
 					System.out.print("*");
 				}
 			}
-				
 			System.out.println();
 		}
 		System.out.print("======== 我是分隔線 =========");
